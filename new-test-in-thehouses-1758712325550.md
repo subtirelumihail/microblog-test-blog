@@ -1,19 +1,13 @@
 ---
 title: new test in the'houses
-date: 2025-09-25T08:10:29.703Z
+date: 2025-09-25T08:14:01.071Z
 ---
 
-we
+### Plan pentru blog
 
-## are
+1. Luat domeniu
 
-> good
+![Screenshot 2025-09-21 at 18.18.26.png](https://raw.githubusercontent.com/subtirelumihail/microblog-test-blog/refs/heads/main/images/1758787802584-Screenshot%202025-09-21%20at%2018.18.26.png)
 
-or not
-
-# /we are
-
-dasdasda
-
-![Screenshot 2025-09-21 at 18.18.26.png](<https://raw.githubusercontent.com/subtirelumihail/microblog-test-blog/refs/heads/main/images/1758787802584-Screenshot 2025-09-21 at 18.18.26.png>)
+2. Facut aplicatie de management
 
